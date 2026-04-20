@@ -8,7 +8,7 @@ const projects = [
     title: "Sovaria",
     category: "Unified Backend Platform",
     tools: "NoSQL, Distributed Systems, Backend Architecture, API Design",
-    image: "/images/callhq.png",
+    image: "/images/callhq.webp",
     link: "https://www.sovarias.in/",
   },
   {
@@ -22,7 +22,7 @@ const projects = [
     title: "Loving Krishna",
     category: "Client Website — ISKCON Project",
     tools: "Full-Stack Web Development, Client Delivery",
-    image: "/images/broki.png",
+    image: "/images/broki.webp",
     link: "https://www.lovingkrishnaservants.com/",
   },
   {
@@ -36,7 +36,7 @@ const projects = [
     title: "Rent-a-Style",
     category: "E-commerce Clothing Platform",
     tools: "HTML, CSS, JavaScript, TypeScript",
-    image: "/images/callhq.png",
+    image: "/images/callhq.webp",
     link: "https://mehulagarwal1313.github.io/Ecommerce-webs/",
   },
   {
